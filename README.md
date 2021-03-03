@@ -56,3 +56,6 @@ Learn ON is a AI-based online re-edcation assistent which can overcome online le
 Learn ON has a BM centered on the B2B fee revenue structure and must implement a business expansion strategy that gradually expands the scope of B2B partners through functional expansion.    
   
 ![ex_screenshot](./img/Learn_ON_BM.png)  
+![ex_screenshot](./img/Learn_ON_1.png)  
+![ex_screenshot](./img/Learn_ON_2.png)  
+![ex_screenshot](./img/Learn_ON_3.png)  
