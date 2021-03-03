@@ -49,3 +49,10 @@ Learn ON is a AI-based online re-edcation assistent which can overcome online le
     * At any time, you can selectively find and relearn only the necessary parts of the long lecture video, and you can search for the timeline of the parts you need through keyword input.  
     * By storing the desired parts, the efficiency of relearning them several times can be greatly expected.  
     * Because AI assistant can be learned through questions without burden, it can greatly complements the lack of interactions between professors and learners online. 
+  
+<h4> 2. Business </h4>
+<div id="about_Business">
+
+Learn ON has a BM centered on the B2B fee revenue structure and must implement a business expansion strategy that gradually expands the scope of B2B partners through functional expansion.    
+  
+![ex_screenshot](./img/Learn_ON_BM.png)  
